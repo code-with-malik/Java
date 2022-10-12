@@ -1,0 +1,5 @@
+Step 1: Download oracle java: https://www.oracle.com/java/technologies/downloads/
+Step 2: Set system variable: JAVA_HOME >> path to jdk
+				eg:  JAVA_HOME >> C:\Program Files\Java\jdk1.8.0_341
+Step 3: Set path varable: %JAVA_HOME%\bin
+Step 4: Check version:  java -version
